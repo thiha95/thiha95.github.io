@@ -6,8 +6,10 @@ I just start to build this page.
 
 ### Research Interests
 
-Natural Language Processing;
-Digital Humanities;
+Natural Language Processing
+
+Digital Humanities
+
 Southeast Asian History
 
 
